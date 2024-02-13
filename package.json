@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "mapmyindia-map-cordova-ionic-beta",
+        "scope": null,
+        "escapedName": "mapmyindia-map-cordova-ionic-beta",
+        "name": "mapmyindia-map-cordova-ionic-beta",
+        "type": "version"
+      }
+    ]
+  ],
+  "_from": "mapmyindia-map-cordova-ionic-beta@^0.2.2",
+  "_id": "mapmyindia-map-cordova-ionic-beta@0.2.2",
+  "_inBundle": false,
+  "_inCache": true,
+  "_integrity": "sha512-ezno2oy9P/AAMXMA8vymFviS48NnK2EQeoNJJg865wXxdGyJBjDTnzl5N3BwF1tRcfZymvWWYtJqtKjQsQ7Aew==",
+  "_location": "/mapmyindia-map-cordova-ionic-beta",
+  "_nodeVersion": "10.0.0",
+  "_npmUser": {
+    "name": "BM"
+  },
+  "_npmVersion": "6.1.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "mapmyindia-map-cordova-ionic-beta@^0.2.2",
+    "name": "mapmyindia-map-cordova-ionic-beta",
+    "escapedName": "mapmyindia-map-cordova-ionic-beta",
+    "rawSpec": "^0.2.2",
+    "saveSpec": null,
+    "fetchSpec": "^0.2.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/mapmyindia-map-cordova-ionic-beta/-/mapmyindia-map-cordova-ionic-beta-0.2.2.tgz",
+  "_shasum": "c2dafc98057a460b4ebf89333b4fe1571d21725f",
+  "_spec": "mapmyindia-map-cordova-ionic-beta@^0.2.2",
+  "_where": "/home/dhaval/rao/trackingo",
+  "bugs": {
+    "url": "https://github.com/MapmyIndia/mapmyindia-map-cordova-ionic-beta/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "MapmyIndia Maps official hybrid map SDK for ionic,cordova & react js-nodejs - NPM,GITHub",
+  "homepage": "https://github.com/MapmyIndia/mapmyindia-map-cordova-ionic-beta#readme",
+  "keywords": [
+    "MapmyIndia",
+    "Map",
+    "nodejs - NPM",
+    "Leaflet",
+    "ionic",
+    "cordova",
+    "marker",
+    "polyline",
+    "polygon",
+    "circle",
+    "iOS",
+    "Android",
+    "Windows",
+    "REACT js"
+  ],
+  "license": "BSD 3-Clause",
+  "main": "src/index.js",
+  "name": "mapmyindia-map-cordova-ionic-beta",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MapmyIndia/mapmyindia-map-cordova-ionic-beta.git"
+  },
+  "version": "0.2.2"
+}
